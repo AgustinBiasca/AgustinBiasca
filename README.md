@@ -1,4 +1,4 @@
-## Estudiante de Actuaría especializado en modelado predictivo y riesgo, con enfoque en Python y Machine Learning.
+## Estudiante de Actuaría | Modelado Predictivo y Riesgo | Python
 
 <!--
 **AgustinBiasca/AgustinBiasca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
